@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "status": "FLIGHT CANCELLED",
+    "status_color_Image": "#E32728",
+    "avatar": "require('../../Assets/AirAsia_Logo.png')",
+    "Airline": "SINGAPORE",
+    "Flightno": "UL3285",
+    "Date": "01/07/2021",
+    "Time": "10:21",
+    "Gate": "L1",
+    "status_Image": "require('../../Assets/Flight_Cancelled.png')"
+  },
+  {
+    "id": "2",
+    "status": "ON BOARDING",
+    "status_color_Image": "#E32728",
+    "avatar": "require('../../Assets/AirAsia_Logo.png')",
+    "Airline": "SINGAPORE",
+    "Flightno": "UL3285",
+    "Date": "01/07/2021",
+    "Time": "10:21",
+    "Gate": "L1"
+  },
+  {
+    "id": "3",
+    "status": "FLIGHT CANCELLED",
+    "status_color_Image": "#E32728",
+    "avatar": "require('../../Assets/AirAsia_Logo.png')",
+    "Airline": "SINGAPORE",
+    "Flightno": "UL3285",
+    "Date": "01/07/2021",
+    "Time": "10:21",
+    "Gate": "L1"
+  },
+  {
+    "id": "4",
+    "status": "ON BOARDING",
+    "status_color_Image": "#E32728",
+    "avatar": "require('../../Assets/Malasia_Airlines.png')",
+    "Airline": "SINGAPORE",
+    "Flightno": "UL3285",
+    "Date": "01/07/2021",
+    "Time": "10:21",
+    "Gate": "L1"
+  },
+  {
+    "id": "5",
+    "status": "ON BOARDING",
+    "status_color_Image": "#E32728",
+    "avatar": "require('../../Assets/AirAsia_Logo.png')",
+    "Airline": "SINGAPORE",
+    "Flightno": "UL3285",
+    "Date": "01/07/2021",
+    "Time": "10:21",
+    "Gate": "L1"
+  },
+  {
+    "id": "6",
+    "status": "ON BOARDING",
+    "status_color_Image": "#E32728",
+    "avatar": "require('../../Assets/Malasia_Airlines.png')",
+    "Airline": "SINGAPORE",
+    "Flightno": "UL3285",
+    "Date": "01/07/2021",
+    "Time": "10:21",
+    "Gate": "L1"
+  },
+  {
+    "id": "7",
+    "status": "GATE CLOSED",
+    "status_color_Image": "#E32728",
+    "avatar": "require('../../Assets/AirAsia_Logo.png')",
+    "Airline": "SINGAPORE",
+    "Flightno": "UL3285",
+    "Date": "01/07/2021",
+    "Time": "10:21",
+    "Gate": "L1"
+  },
+  {
+    "id": "11",
+    "status": "FLIGHT CANCELLED",
+    "status_color_Image": "#E32728",
+    "avatar": "require('../../Assets/AirAsia_Logo.png')",
+    "Airline": "SINGAPORE",
+    "Flightno": "UL3285",
+    "Date": "01/07/2021",
+    "Time": "10:21",
+    "Gate": "L1",
+    "status_Image": "require('../../Assets/Flight_Cancelled.png')"
+  }
+]
